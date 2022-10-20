@@ -7,7 +7,7 @@ function ItemListContainer(props) {
     <>
       <div class="grid">
         <img src={Img} alt="" className="img-card"/>
-        <h1 class="body-title">Hola, soy un {props.texto}</h1>
+        <h1 class="body-title">Barra movil {props.texto}</h1>
         <p class="body-content">{props.descripcion}</p>
         <button class="btn btn-comprar">comprar</button>
       </div>

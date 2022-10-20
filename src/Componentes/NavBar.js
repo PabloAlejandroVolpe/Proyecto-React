@@ -8,12 +8,12 @@ function NavBar () {
             <header>
                 <div className="interior">
                     <a href="#" className="logo"><Logo /></a>
-                    <h5>BarraMovil</h5>
+                   <h5>Barra Movil</h5>
                     <nav className="navegacion">
                         <ul>
-                            <li><a href="#">Inicio</a></li>
-                            <li><a href="#">Tienda</a></li>
-                            <li><a href="#">Nosotros</a></li>
+                            <li><a href="#">Premium</a></li>
+                            <li><a href="#">Gold</a></li>
+                            <li><a href="#">Basicos</a></li>
                         </ul>
                     </nav>
                 </div>
